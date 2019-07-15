@@ -1,0 +1,17 @@
+{
+  "name": "webcore",
+  "version": "0.0.1",
+  "description": "JavaScript Webcore Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthias Keil <keil@rm-keil.de> (http://matthias-keil.de)",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mustache": "^3.0.1",
+
+    "fibonacci" : "git:github.com/keil/fibonacci#1.0.0"
+  }
+}
