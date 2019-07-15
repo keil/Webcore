@@ -1,0 +1,2 @@
+# Webcore
+JavaScrip Webcore Framework
