@@ -40,3 +40,4 @@ Test
 Bla Bla Bla
 
 [test]
+[a relative link](other_file.md)
